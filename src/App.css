@@ -1,0 +1,38 @@
+body{
+    
+    
+    
+    
+background-color: snow;
+
+
+}
+.all{display: flex;
+    justify-content: center;
+background-color:rgb(49, 51, 50);
+border-radius: 5px;
+margin-top: 50px;
+    
+}
+
+.im {width: 300px;
+    height: 300px;
+    border-radius: 500px;
+}
+.texte {
+    color: blanchedalmond;
+
+margin-top: 70px;
+margin-left: 20px;
+}
+.b{margin-top: 100px;
+margin-bottom: 100px;
+margin-left: 5px;
+background-color:rgb(0, 0, 0);
+font-family:Arial, Helvetica, sans-serif;
+font-size: larger;
+font-style: normal;
+color: brown;
+border-radius: 500px;
+border: 0cm;}
+   
